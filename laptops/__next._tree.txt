@@ -1,2 +1,2 @@
 :HL["/oyelaptop-demo/_next/static/chunks/3u17ll6f-k116.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"laptops","siblings":["api"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"KZet65RD6vpJkjWFHQ8-u"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"slug","param":{"type":"oc","key":"laptops","siblings":["api"]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ZQIN-e6CPKypJTU1m4sIh"}
