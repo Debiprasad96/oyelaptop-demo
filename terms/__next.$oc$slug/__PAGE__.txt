@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[17199,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js","/oyelaptop-demo/_next/static/chunks/076iijsym-ei-.js"],"InfoPage"]
+3:I[22700,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[22700,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js"],"ViewportBoundary"]
+9:I[22700,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js"],"MetadataBoundary"]
+b:I[97616,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js"],"default"]
+c:I[7111,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js"],"default"]
+f:I[18589,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js"],"StoreProvider"]
+10:I[138,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js"],"Shell"]
+11:I[8821,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js","/oyelaptop-demo/_next/static/chunks/3tlao-o5fro5y.js"],"default"]
+12:I[45910,["/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js"],"EmptyState"]
+:HL["/oyelaptop-demo/_next/static/chunks/3u17ll6f-k116.css","style"]
+7:X
+e:X
+e:C
+0:{"buildId":"KZet65RD6vpJkjWFHQ8-u","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"route":"terms","subroute":[]}],[["$","script","script-0",{"src":"/oyelaptop-demo/_next/static/chunks/076iijsym-ei-.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#14233f"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"terms | Oye Laptop"}],["$","meta","1",{"name":"description","content":"terms at Oye Laptop. Demonstration store; no real orders or payments are accepted."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"canonical","href":"https://debiprasad96.github.io/oyelaptop-demo/terms/"}],["$","meta","4",{"property":"og:title","content":"terms"}],["$","meta","5",{"property":"og:description","content":"terms at Oye Laptop. Demonstration store; no real orders or payments are accepted."}],["$","meta","6",{"property":"og:type","content":"website"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"terms"}],["$","meta","9",{"name":"twitter:description","content":"terms at Oye Laptop. Demonstration store; no real orders or payments are accepted."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/oyelaptop-demo/_next/static/chunks/3u17ll6f-k116.css","precedence":"next"}],["$","script","script-0",{"src":"/oyelaptop-demo/_next/static/chunks/2nfamfcvzkv-w.js","async":true}],["$","script","script-1",{"src":"/oyelaptop-demo/_next/static/chunks/10vbzetl46hx_.js","async":true}]],["$","html",null,{"lang":"en-IN","children":["$","body",null,{"children":["$","$Lf",null,{"children":["$","$L10",null,{"children":["$","$Lb",null,{"parallelRouterKey":"children","error":"$11","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/oyelaptop-demo/_next/static/chunks/3tlao-o5fro5y.js","async":true}]],"template":["$","$Lc",null,{}],"notFound":[["$","div",null,{"className":"container section","children":["$","$L12",null,{"title":"We couldn’t find that page","detail":"The link may have moved, or the product is no longer in this demo catalogue.","href":"/","action":"Back to the store"}]}],[]]}]}]}]}]}]]}],"isPartial":"$@13","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+5:null
+7:300
+15:true
+7:C
+14:0
+a:"$undefined"
+d:"$undefined"
+13:"$undefined"
+6:"$undefined"
